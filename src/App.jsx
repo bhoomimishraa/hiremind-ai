@@ -1242,11 +1242,13 @@ function LoginPage({ onLogin }) {
 
       <div style={{ width: 440, background: C.page, display: "flex", flexDirection: "column", justifyContent: "center", padding: "40px 52px" }}>
         <div style={{ display: "flex", alignItems: "center", gap: 9, marginBottom: 36 }}>
-          <div style={{ width: 32, height: 32, borderRadius: 8, background: C.gold, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: HEAD, fontWeight: 700, color: C.navy, fontSize: 16 }}>S</div>
-          <div>
-            <div style={{ fontFamily: HEAD, fontWeight: 600, fontSize: 16, color: C.ink, lineHeight: 1.15 }}>Softpal Technologies</div>
-            <div style={{ fontFamily: MONO, fontSize: 9.5, color: C.faint, letterSpacing: 0.4 }}>PVT. LTD.</div>
-          </div>
+          
+<div style={{ width: 32, height: 32, borderRadius: 8, background: C.gold, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: HEAD, fontWeight: 700, color: C.navy, fontSize: 16 }}>H</div>
+<div>
+  <div style={{ fontFamily: HEAD, fontWeight: 600, fontSize: 16, color: C.ink, lineHeight: 1.15 }}>HireMind AI</div>
+  <div style={{ fontFamily: MONO, fontSize: 9.5, color: C.faint, letterSpacing: 0.4 }}>RECRUITMENT INTELLIGENCE</div>
+</div>
+
         </div>
 
         <div style={{ fontFamily: HEAD, fontSize: 25, fontWeight: 600, color: C.ink, marginBottom: 6 }}>Welcome back</div>
